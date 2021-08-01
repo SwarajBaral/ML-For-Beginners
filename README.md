@@ -8,7 +8,7 @@
 [![GitHub forks](https://img.shields.io/github/forks/microsoft/ML-For-Beginners.svg?style=social&label=Fork&maxAge=2592000)](https://GitHub.com/microsoft/ML-For-Beginners/network/)
 [![GitHub stars](https://img.shields.io/github/stars/microsoft/ML-For-Beginners.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/microsoft/ML-For-Beginners/stargazers/)
 
-# Machine Learning for Beginners - A Curriculum
+# Machine Learning for Beginners - A Curriculum (New branch)
 
 > 🌍 Travel around the world as we explore Machine Learning by means of world cultures 🌍
 
